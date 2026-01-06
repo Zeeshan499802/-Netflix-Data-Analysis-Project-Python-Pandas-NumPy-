@@ -30,6 +30,8 @@ Pandas
 
 NumPy
 
+Matplotlib
+
 Jupyter Notebook
 
 This project helped me strengthen my data cleaning, analysis, and problem-solving skills and improved my understanding of working with real datasets.
